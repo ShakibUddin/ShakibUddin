@@ -18,14 +18,14 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&layout=compact&count_private=true)
 
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/java.png"></code>
+<code><img height="40" src="https://github.com/github/explore/tree/master/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/dart.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/intellij.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/android-studio.png"></code>  
