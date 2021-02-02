@@ -14,7 +14,7 @@
 <br />
 
 #### 🌱 I’m currently learning Javascript, Node.js & Flutter
-##### 📫 How to reach me: <a href="https://www.facebook.com/profile.php?id=100011011868115">Shakib Uddin Bhuiyan</a> 
+##### 📫 How to reach me: <a href="shakibuddinbhuiyan@gmail.com">Shakib Uddin Bhuiyan</a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
