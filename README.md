@@ -23,11 +23,11 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/intellij.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code>  
+<code><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>  
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code> 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code> 
