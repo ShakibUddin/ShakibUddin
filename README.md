@@ -1,8 +1,6 @@
-<p>
-  <center>
+<p style="text-align: center;">
   <h1>As-Salamu Alaikum</h1>
   <h2 style="color: red">I'm Shakib!</h2>
-    </center>
   </p>
 
 <p style="width: 100%, margin: auto, text-align: center">
