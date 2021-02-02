@@ -9,18 +9,6 @@
 <a href="https://www.hackerrank.com/Shakib__Uddin">
   <img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
 </a>
-
-<br />
-<br />
-
-#### 🌱 I’m currently learning Javascript, Node.js & Flutter
-##### 📫 How to reach me: shakibuddinbhuiyan@gmail.com
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&hide=powershell&theme=highcontrast)
-
-
 ### Frameworks, Languages and Tools:  
 <div style="display: flex">
     <img src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=Java&logoColor=white"/>
@@ -37,3 +25,15 @@
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
+<br />
+<br />
+
+#### 🌱 I’m currently learning Javascript, Node.js & Flutter
+##### 📫 How to reach me: shakibuddinbhuiyan@gmail.com
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&hide=powershell&theme=highcontrast)
+
+
+
+
