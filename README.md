@@ -23,9 +23,11 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://github.com/github/explore/tree/master/topics/java/java.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/intellij.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/android-studio.png"></code>  
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code>  
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code> 
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code> 
