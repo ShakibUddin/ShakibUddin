@@ -31,7 +31,9 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-A80030?style=flat-square&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Dart-4285F4?style=flat-square&logo=Dart%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flutter-123F6D?style=flat-square&logo=Flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Android-222F29?style=flat-square&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-4285F4?style=flat-square&logo=Python%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Django-4285F4?style=flat-square&logo=Django%20Cloud&logoColor=white"/>
+
 </div>
