@@ -1,7 +1,7 @@
-### As Salamu Alaikum 👋, I'm Shakib!
+### As-Salamu Alaikum 👋, I'm Shakib!
 
 <a href="https://www.facebook.com/profile.php?id=100011011868115">
-  <img align="center" alt="Shakib Uddin | Facebook" width="40px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
+  <img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
 </a>
 <a href="https://shakibuddinbhuiyan.medium.com/">
   <img align="center" alt="Shakib Uddin | Medium" width="40px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
@@ -18,7 +18,7 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&layout=compact&hide=python)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&layout=compact&hide=powershell)
 
 
 **Languages and Tools:**  
