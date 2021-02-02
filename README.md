@@ -23,12 +23,15 @@
 
 ### Frameworks, Languages and Tools:  
 <div style="display: flex, justify-content: space-between">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png">
-<img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png">
-<img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png">
-<img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png">
-<img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png">  
-<img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"> 
-<img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"> 
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Dart%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=Flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Android&logoColor=white"/>
 </div>
