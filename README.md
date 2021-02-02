@@ -1,4 +1,4 @@
-<p align=center>
+<p align="center">
   <h1>As-Salamu Alaikum</h1>
   <h2 style="color: red">I'm Shakib!</h2>
   </p>
