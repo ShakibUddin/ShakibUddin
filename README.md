@@ -1,6 +1,6 @@
 ### As-Salamu Alaikum 👋, I'm Shakib!
 
-<div style="width: 100%, margin: auto">
+<div style="width: 100%, margin: auto, text-align: center">
 <a href="https://www.facebook.com/profile.php?id=100011011868115">
 <img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
 </a>
@@ -12,7 +12,7 @@
 </a>
   </div>
 <br />
-### Frameworks, Languages and Tools:  
+<h2>Frameworks, Languages and Tools:</h2>  
 <br />
 <div style="display: flex">
     <img src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=Java&logoColor=white"/>
