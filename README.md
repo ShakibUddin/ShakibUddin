@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align=center>
   <h1>As-Salamu Alaikum</h1>
   <h2 style="color: red">I'm Shakib!</h2>
   </p>
@@ -14,7 +14,6 @@
 <img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
 </a>
   </p>
-<br />
 <h2>Frameworks, Languages and Tools:</h2>  
 <br />
 <p>
