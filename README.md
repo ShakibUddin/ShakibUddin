@@ -1,15 +1,19 @@
 ### As-Salamu Alaikum 👋, I'm Shakib!
 
+<div style="width: 100%, margin: auto">
 <a href="https://www.facebook.com/profile.php?id=100011011868115">
-  <img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
+<img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
 </a>
 <a href="https://shakibuddinbhuiyan.medium.com/">
-  <img align="center" alt="Shakib Uddin | Medium" width="40px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+<img align="center" alt="Shakib Uddin | Medium" width="40px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
 <a href="https://www.hackerrank.com/Shakib__Uddin">
-  <img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
+<img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
 </a>
+  </div>
+<br />
 ### Frameworks, Languages and Tools:  
+<br />
 <div style="display: flex">
     <img src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flutter-123F6D?style=flat-square&logo=Flutter&logoColor=white"/>
