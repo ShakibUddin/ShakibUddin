@@ -1,13 +1,13 @@
 ### As Salamu Alaikum 👋, I'm Shakib!
 
 <a href="https://www.facebook.com/profile.php?id=100011011868115">
-  <img align="left" alt="Shakib Uddin | Facebook" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/facebook.png"/>
+  <img align="left" alt="Shakib Uddin | Facebook" width="21px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
 </a>
 <a href="https://shakibuddinbhuiyan.medium.com/">
   <img align="left" alt="Shakib Uddin | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
 <a href="https://www.hackerrank.com/Shakib__Uddin">
-  <img align="left" alt="Shakib Uddin | HackerRank" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/hackerrank.png"/>
+  <img align="left" alt="Shakib Uddin | HackerRank" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
 </a>
 
 <br />
