@@ -1,9 +1,9 @@
-<div>
+<p>
   <h1>As-Salamu Alaikum</h1>
   <h2 style="color: red">I'm Shakib!</h2>
-  </div>
+  </p>
 
-<div style="width: 100%, margin: auto, text-align: center">
+<p style="width: 100%, margin: auto, text-align: center">
 <a href="https://www.facebook.com/profile.php?id=100011011868115">
 <img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
 </a>
@@ -13,11 +13,11 @@
 <a href="https://www.hackerrank.com/Shakib__Uddin">
 <img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
 </a>
-  </div>
+  </p>
 <br />
 <h2>Frameworks, Languages and Tools:</h2>  
 <br />
-<div style="display: flex">
+<p>
     <img src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flutter-123F6D?style=flat-square&logo=Flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Android-222F29?style=flat-square&logo=Android&logoColor=white"/>
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 
-</div>
+</p>
 <br />
 <br />
 
