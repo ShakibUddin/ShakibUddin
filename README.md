@@ -22,7 +22,7 @@
 
 
 ### Languages and Tools:  
-
+<div style="display: flex">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png">
 <img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png">
 <img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png">
@@ -31,3 +31,4 @@
 <img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png">  
 <img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"> 
 <img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"> 
+</div>
