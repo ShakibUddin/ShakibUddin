@@ -7,7 +7,7 @@
   <img align="left" alt="Shakib Uddin | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
 <a href="https://www.hackerrank.com/Shakib__Uddin">
-  <img align="left" alt="Shakib Uddin | HackerRank" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+  <img align="left" alt="Shakib Uddin | HackerRank" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/hackerrank.png"/>
 </a>
 
 <br />
