@@ -1,6 +1,8 @@
 <p>
+  <center>
   <h1>As-Salamu Alaikum</h1>
   <h2 style="color: red">I'm Shakib!</h2>
+    </center>
   </p>
 
 <p style="width: 100%, margin: auto, text-align: center">
@@ -39,6 +41,7 @@
 ##### 📫 How to reach me: shakibuddinbhuiyan@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
+<br/>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibUddin&hide=powershell&theme=highcontrast)
 
 
