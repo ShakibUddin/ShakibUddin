@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/-Flutter-123F6D?style=flat-square&logo=Flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Android-222F29?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-A80030?style=flat-square&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Node-A80030?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Express-A80030?style=flat-square&logo=Express.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node-F29111?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Express.js-F44D27?style=flat-square&logo=Express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Python-4285F4?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Django-4285F4?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
