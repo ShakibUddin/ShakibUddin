@@ -11,7 +11,7 @@
 <img align="center" alt="Shakib Uddin | Medium" width="40px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
 <a href="https://www.hackerrank.com/Shakib__Uddin">
-<img align="center" alt="Shakib Uddin | HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png"/>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
   </p>
 <h2>Frameworks, Languages and Tools:</h2>  
