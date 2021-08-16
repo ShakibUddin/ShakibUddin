@@ -4,11 +4,8 @@
   </p>
 
 <p style="width: 100%, margin: auto, text-align: center">
-<a href="https://www.facebook.com/profile.php?id=100011011868115">
-<img align="center" alt="Shakib Uddin | Facebook" width="30px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png"/>
-</a>
-<a href="https://shakibuddinbhuiyan.medium.com/">
-<img align="center" alt="Shakib Uddin | Medium" width="40px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+<a href="https://www.linkedin.com/in/md-shakib-uddin/">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/Shakib__Uddin">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
