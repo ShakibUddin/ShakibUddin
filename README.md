@@ -1,7 +1,4 @@
-<p align="justify">
-  <h1>Hello</h1>
-  <h2 style="color: red">I'm Shakib!</h2>
-  </p>
+<h1>Hello, I'm Shakib!</h1>
 
 <br/>
 <p style="width: 100%, margin: auto, text-align: center">
