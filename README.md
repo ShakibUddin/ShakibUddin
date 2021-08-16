@@ -3,7 +3,7 @@
   <h2 style="color: red">I'm Shakib!</h2>
   </p>
 
-<br>
+<br/>
 <p style="width: 100%, margin: auto, text-align: center">
 <a href="https://www.linkedin.com/in/md-shakib-uddin/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
