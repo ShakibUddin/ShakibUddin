@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/-Javascript-A80030?style=flat-square&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-F29111?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Express.js-E34F26?style=flat-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
