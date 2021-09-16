@@ -37,10 +37,11 @@
 </p>
 
 <!--hosting-->
-<h3>Hosting</h3>
+<h3>Cloud</h3>
 <p>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/netlify%20-%23430098.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 <!--familiar-->
