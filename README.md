@@ -4,7 +4,7 @@
 
 -  I am learning the MERN Stack
 
-- 👨‍💻 Get to know me [https://zabiranik.com/](https://shakibuddinbhuiyan.netlify.app/)
+- 👨‍💻 Get to know me [https://shakibuddinbhuiyan.netlify.app/](https://shakibuddinbhuiyan.netlify.app/)
 
 - 📫 Reach me at **shakibuddinbhuiyan@gmail.com**
 
