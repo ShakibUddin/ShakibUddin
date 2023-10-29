@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"/>
+<img src="https://img.shields.io/badge/next.js%20-%23323330.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 
 </p>
 
@@ -59,10 +60,7 @@
 <br />
 <br />
 
-#### 🌱 I’m currently learning the MERN Stack
 ##### 📫 How to reach me: shakibuddinbhuiyan@gmail.com
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ShakibUddin&theme=highcontrast&show_icons=true&count_private=true)
 <br/>
 
 
